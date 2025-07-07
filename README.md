@@ -29,5 +29,5 @@ Welcome to my collection of Python practice projects! I'm currently studying Com
 
 If you're a recruiter or collaborator and want to learn more about my background or certifications, check out:
 
-- 📄 [My Résumé PDF (generated in Python)](link-to-resume-if-applicable)
+- 📄 [My Résumé PDF (generated in Python)](https://drive.google.com/drive/folders/1wcJg7bQIYzDZ9t2JZMf4IUHvfd4GxsQI)
 - 📁 [All my certifications on Google Drive](https://drive.google.com/drive/folders/1quS5ugpKSfCtC4HN2ffzhTKRp9zqoQbH)
